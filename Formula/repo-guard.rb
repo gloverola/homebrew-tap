@@ -3,7 +3,7 @@ class RepoGuard < Formula
 
   desc "Scan every git clone for hidden malware before any of its code can run"
   homepage "https://github.com/gloverola/repo-guard"
-  url "https://files.pythonhosted.org/packages/source/g/git-repo-guard/git_repo_guard-1.0.0.tar.gz"
+  url "https://files.pythonhosted.org/packages/72/de/bc4b8bb7b2ed9f900be4860729963541aec25f70b61350c3877af437f4d1/git_repo_guard-1.0.0.tar.gz"
   sha256 "b2defd34e26b01af16dcc0b5709fd5813c31baaa1929c6e1b0a40568ad2e55fb"
   license "MIT"
 
